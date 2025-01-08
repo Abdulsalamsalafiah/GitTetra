@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Abdul is a student and now graduated from university 
+=======
+Abdul is a student and now graduated from USA 
+>>>>>>> Newbranch
